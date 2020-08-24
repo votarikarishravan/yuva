@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "939815574173",
+    "firebase_url": "https://yuva-9907e.firebaseio.com",
+    "project_id": "yuva-9907e",
+    "storage_bucket": "yuva-9907e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939815574173:android:4927a7de822a3a3a011274",
+        "android_client_info": {
+          "package_name": "com.example.yuva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939815574173-ch7qv12ccf6lue4aqdc42rnhlaokc29h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDnCS84pYxddxyxY_heCZfVxiFH46VxKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939815574173-ch7qv12ccf6lue4aqdc42rnhlaokc29h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
